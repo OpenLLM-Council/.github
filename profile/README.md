@@ -1,10 +1,10 @@
 <p align="start">
-  <img src="logo.jpeg" alt="Logo" width="50"/>
+  <img src="../logo.jpeg" alt="Logo" width="50"/>
 </p>
 
 # OpenLLM-Council
 
-![Banner](banner.jpg)
+![Banner](../banner.jpg)
 
 ## Mission
 The **OpenLLM-Council** is an organization dedicated to advancing the field of multi-agent Large Language Model (LLM) systems. Our mission is to foster collaboration, standardized frameworks, and robust methodologies for creating autonomous agents that can reason, debate, and execute complex tasks with high reliability.
